@@ -7,6 +7,7 @@
 - - [ ] Text for articles
 - - [ ] Images for articles
 - - [ ] Videos for articles
+- - [ ] Social Media / Quotes for article
 - [ ] Content aggrogration
 - - [ ] Summarizing found text
 - - [ ] Listing Sources
