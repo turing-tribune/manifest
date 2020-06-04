@@ -24,3 +24,6 @@ Publisher
 - Push to youtube 
 - Generate tags and thumbnails
 - Stream to twitch
+
+Developer pipeline
+- Visualization of all the videos as they move through the pipeline
